@@ -15,9 +15,9 @@ To apply my academic background in Cybersecurity and practical experience with s
 | Risk Management, Assessment, and Mitigation           | <a href="https://github.com/brandon-luff/Risk-Management-Plan">Risk Management Plan</a>|
 | Python Applications                                   | <a href="https://github.com/brandon-luff/Coding-Projects/blob/main/README.md">Coding Projects</a>|
 | Dark Web OSINT Investigation and Encryption           | <a href="https://github.com/brandon-luff/OSINT-Report/blob/main/README.md">OSINT Report</a>|
-| SIEM Implementation and Log Analysis                  | <a href="https://google.com">SIEM Lab (In Progress)</a>|
-| Windows Server and Active Directory                   | <a href="https://google.com">Active Directory Lab (In Progress)</a>|
-| Wireshark                                             | <a href="https://google.com">Wireshark Lab (In Progress)</a>|
+| SIEM Implementation and Log Analysis                  | <a href="https://github.com/brandon-luff/SIEM-Lab/blob/main/README.md">SIEM Lab (In Progress)</a>|
+| Windows Server and Active Directory                   | <a href="https://github.com/brandon-luff/Active-Directory-Lab/blob/main/README.md">Active Directory Lab (In Progress)</a>|
+| Wireshark                                             | <a href="https://github.com/brandon-luff/Wireshark-Lab/blob/main/README.md">Wireshark Lab (In Progress)</a>|
 
 ## Tools
 
@@ -63,6 +63,6 @@ To apply my academic background in Cybersecurity and practical experience with s
 - <a href="https://github.com/brandon-luff/Risk-Management-Plan">Risk Management Plan</a>
 - <a href="https://github.com/brandon-luff/Coding-Projects/blob/main/README.md">Coding Projects</a>
 - <a href="https://github.com/brandon-luff/OSINT-Report/blob/main/README.md">OSINT Report</a>
-- SIEM Lab
-- Active Directory Lab
-- Wireshark Lab
+- <a href="https://github.com/brandon-luff/SIEM-Lab/blob/main/README.md">SIEM Lab (In Progress)</a>
+- <a href="https://github.com/brandon-luff/Active-Directory-Lab/blob/main/README.md">Active Directory Lab (In Progress)</a>
+- <a href="https://github.com/brandon-luff/Wireshark-Lab/blob/main/README.md">Wireshark Lab (In Progress)</a>
