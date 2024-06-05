@@ -12,7 +12,7 @@ To apply my academic background in Cybersecurity and practical experience with s
 | Skill                                                 | Associated Project         |
 |-------------------------------------------------------|----------------------------|
 | Designing and Implementing a Secure Cloud Environment | <a href="https://github.com/brandon-luff/Cloud-Solutions-Project">Cloud Solutions Project</a>|
-| Risk Management, Assessment, and Mitigation           | <a href="https://google.com">Risk Management Plan</a>|
+| Risk Management, Assessment, and Mitigation           | <a href="https://github.com/brandon-luff/Risk-Management-Plan">Risk Management Plan</a>|
 | Python Applications                                   | <a href="https://google.com">Coding Projects</a>|
 | Dark Web OSINT Investigation and Encryption           | <a href="https://google.com">OSINT Report</a>|
 | SIEM Implementation and Log Analysis                  | <a href="https://google.com">SIEM Lab</a>|
