@@ -11,46 +11,56 @@ To apply my academic background in Cybersecurity and practical experience with s
 
 | Skill                                                 | Associated Project         |
 |-------------------------------------------------------|----------------------------|
-| Designing and Implementing a Secure Cloud Environment | <a href="https://google.com">Detection Lab</a>|
-| Risk Management, Assessment, and Mitigation           | <a href="https://google.com">Detection Lab</a>|
-| Python Applications                                   | SOC Automation Lab|
-| Dark Web OSINT Investigation and Encryption           | SOC Automation Lab|
-| SIEM Implementation and Log Analysis                  | SOC Automation Lab|
-| Windows Server and Active Directory                   | SOC Automation Lab|
+| Designing and Implementing a Secure Cloud Environment | <a href="https://google.com">Cloud Solutions Project</a>|
+| Risk Management, Assessment, and Mitigation           | <a href="https://google.com">Risk Management Plan</a>|
+| Python Applications                                   | <a href="https://google.com">Coding Projects</a>|
+| Dark Web OSINT Investigation and Encryption           | <a href="https://google.com">OSINT Report</a>|
+| SIEM Implementation and Log Analysis                  | <a href="https://google.com">SIEM Lab</a>|
+| Windows Server and Active Directory                   | <a href="https://google.com">Active Directory Lab</a>|
+| Wireshark                                             | <a href="https://google.com">Wireshark Lab</a>|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-### Network
+### Network Security and Monitoring
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-0078D7?&style=for-the-badge&logo=Nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Snort-FF0000?&style=for-the-badge&logo=Snort&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+### Security and Encryption
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PGP-008000?&style=for-the-badge&logo=PGP&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Active%20Directory-0082C9?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
+
+### Operating Systems
+<div>
+    <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows%20Server-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
+</div>
+
+### Virtualization and Cloud Platforms
+<div>
+    <img src="https://img.shields.io/badge/-AWS-FF9900?&style=for-the-badge&logo=Amazon%20AWS&logoColor=232F3E" />
+    <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
+</div>
+
+### Development Tools
+<div>
+    <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?&style=for-the-badge&logo=Visual%20Studio&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+</div>
+
+
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Cloud Solutions Project
+- Risk Management Plan
+- Coding Projects
+- OSINT Report
+- SIEM Lab
+- Active Directory Lab
+- Wireshark Lab
