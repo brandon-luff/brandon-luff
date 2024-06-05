@@ -13,11 +13,11 @@ To apply my academic background in Cybersecurity and practical experience with s
 |-------------------------------------------------------|----------------------------|
 | Designing and Implementing a Secure Cloud Environment | <a href="https://github.com/brandon-luff/Cloud-Solutions-Project">Cloud Solutions Project</a>|
 | Risk Management, Assessment, and Mitigation           | <a href="https://github.com/brandon-luff/Risk-Management-Plan">Risk Management Plan</a>|
-| Python Applications                                   | <a href="https://google.com">Coding Projects</a>|
+| Python Applications                                   | <a href="https://github.com/brandon-luff/Coding-Projects/blob/main/README.md">Coding Projects</a>|
 | Dark Web OSINT Investigation and Encryption           | <a href="https://google.com">OSINT Report</a>|
-| SIEM Implementation and Log Analysis                  | <a href="https://google.com">SIEM Lab</a>|
-| Windows Server and Active Directory                   | <a href="https://google.com">Active Directory Lab</a>|
-| Wireshark                                             | <a href="https://google.com">Wireshark Lab</a>|
+| SIEM Implementation and Log Analysis                  | <a href="https://google.com">SIEM Lab (In Progress)</a>|
+| Windows Server and Active Directory                   | <a href="https://google.com">Active Directory Lab (In Progress)</a>|
+| Wireshark                                             | <a href="https://google.com">Wireshark Lab (In Progress)</a>|
 
 ## Tools
 
@@ -57,9 +57,9 @@ To apply my academic background in Cybersecurity and practical experience with s
 
 
 ## Projects
-- Cloud Solutions Project
-- Risk Management Plan
-- Coding Projects
+- <a href="https://github.com/brandon-luff/Cloud-Solutions-Project">Cloud Solutions Project</a>
+- <a href="https://github.com/brandon-luff/Risk-Management-Plan">Risk Management Plan</a>
+- <a href="https://github.com/brandon-luff/Coding-Projects/blob/main/README.md">Coding Projects</a>
 - OSINT Report
 - SIEM Lab
 - Active Directory Lab
