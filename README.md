@@ -14,7 +14,7 @@ To apply my academic background in Cybersecurity and practical experience with s
 | Designing and Implementing a Secure Cloud Environment | <a href="https://github.com/brandon-luff/Cloud-Solutions-Project">Cloud Solutions Project</a>|
 | Risk Management, Assessment, and Mitigation           | <a href="https://github.com/brandon-luff/Risk-Management-Plan">Risk Management Plan</a>|
 | Python Applications                                   | <a href="https://github.com/brandon-luff/Coding-Projects/blob/main/README.md">Coding Projects</a>|
-| Dark Web OSINT Investigation and Encryption           | <a href="https://google.com">OSINT Report</a>|
+| Dark Web OSINT Investigation and Encryption           | <a href="https://github.com/brandon-luff/OSINT-Report/blob/main/README.md">OSINT Report</a>|
 | SIEM Implementation and Log Analysis                  | <a href="https://google.com">SIEM Lab (In Progress)</a>|
 | Windows Server and Active Directory                   | <a href="https://google.com">Active Directory Lab (In Progress)</a>|
 | Wireshark                                             | <a href="https://google.com">Wireshark Lab (In Progress)</a>|
@@ -33,6 +33,7 @@ To apply my academic background in Cybersecurity and practical experience with s
 <div>
     <img src="https://img.shields.io/badge/-PGP-008000?&style=for-the-badge&logo=PGP&logoColor=white" />
     <img src="https://img.shields.io/badge/-Active%20Directory-0082C9?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Tor-7E4798?&style=for-the-badge&logo=Tor%20Project&logoColor=white" />
 </div>
 
 ### Operating Systems
@@ -60,7 +61,7 @@ To apply my academic background in Cybersecurity and practical experience with s
 - <a href="https://github.com/brandon-luff/Cloud-Solutions-Project">Cloud Solutions Project</a>
 - <a href="https://github.com/brandon-luff/Risk-Management-Plan">Risk Management Plan</a>
 - <a href="https://github.com/brandon-luff/Coding-Projects/blob/main/README.md">Coding Projects</a>
-- OSINT Report
+- <a href="https://github.com/brandon-luff/OSINT-Report/blob/main/README.md">OSINT Report</a>
 - SIEM Lab
 - Active Directory Lab
 - Wireshark Lab
