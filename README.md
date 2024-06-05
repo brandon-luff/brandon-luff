@@ -41,6 +41,7 @@ To apply my academic background in Cybersecurity and practical experience with s
     <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-Windows%20Server-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Tails-56347D?&style=for-the-badge&logo=Tails&logoColor=white" />
 </div>
 
 ### Virtualization and Cloud Platforms
