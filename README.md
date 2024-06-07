@@ -12,12 +12,12 @@ To apply my academic background in Cybersecurity and practical experience with s
 | Skill                                                 | Associated Project         |
 |-------------------------------------------------------|----------------------------|
 | Designing and Implementing a Secure Cloud Environment | <a href="https://github.com/brandon-luff/Cloud-Solutions-Project">Cloud Solutions Project</a>|
+| Wireshark                                             | <a href="https://github.com/brandon-luff/Wireshark-Lab/blob/main/README.md">Wireshark Lab</a>|
 | Risk Management, Assessment, and Mitigation           | <a href="https://github.com/brandon-luff/Risk-Management-Plan">Risk Management Plan</a>|
 | Python Applications                                   | <a href="https://github.com/brandon-luff/Coding-Projects/blob/main/README.md">Coding Projects</a>|
 | Dark Web OSINT Investigation and Encryption           | <a href="https://github.com/brandon-luff/OSINT-Report/blob/main/README.md">OSINT Report</a>|
 | SIEM Implementation and Log Analysis                  | <a href="https://github.com/brandon-luff/SIEM-Lab/blob/main/README.md">SIEM Lab (In Progress)</a>|
 | Windows Server and Active Directory                   | <a href="https://github.com/brandon-luff/Active-Directory-Lab/blob/main/README.md">Active Directory Lab (In Progress)</a>|
-| Wireshark                                             | <a href="https://github.com/brandon-luff/Wireshark-Lab/blob/main/README.md">Wireshark Lab (In Progress)</a>|
 
 ## Tools
 
@@ -60,9 +60,9 @@ To apply my academic background in Cybersecurity and practical experience with s
 
 ## Projects
 - <a href="https://github.com/brandon-luff/Cloud-Solutions-Project">Cloud Solutions Project</a>
+- <a href="https://github.com/brandon-luff/Wireshark-Lab/blob/main/README.md">Wireshark Lab</a>
 - <a href="https://github.com/brandon-luff/Risk-Management-Plan">Risk Management Plan</a>
 - <a href="https://github.com/brandon-luff/Coding-Projects/blob/main/README.md">Coding Projects</a>
 - <a href="https://github.com/brandon-luff/OSINT-Report/blob/main/README.md">OSINT Report</a>
 - <a href="https://github.com/brandon-luff/SIEM-Lab/blob/main/README.md">SIEM Lab (In Progress)</a>
 - <a href="https://github.com/brandon-luff/Active-Directory-Lab/blob/main/README.md">Active Directory Lab (In Progress)</a>
-- <a href="https://github.com/brandon-luff/Wireshark-Lab/blob/main/README.md">Wireshark Lab (In Progress)</a>
