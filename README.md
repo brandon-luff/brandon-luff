@@ -1,5 +1,5 @@
 # Hello, I'm Brandon!
-<a href="https://www.linkedin.com/in/brandon-luff-49075b240/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/brandon-luff5/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I'm a recent graduate with a degree in Cybersecurity. I have a strong foundation in information security principles, threat analysis, and network defense. My passion for protecting digital assets and staying ahead of emerging threats drives my commitment to continuous learning and professional growth in the field.
 
